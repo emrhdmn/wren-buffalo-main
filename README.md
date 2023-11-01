@@ -29,7 +29,7 @@ The project can be set up on your local machine by cloning the repository and op
 
 ## Deploy
 
-
+https://emrhdmn.github.io/wren-buffalo-main/
 
 ## Screen
 
